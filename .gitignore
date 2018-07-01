@@ -4,7 +4,9 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/.idea/caches
 .DS_Store
 /build
 /captures
 .externalNativeBuild
+/*.jks
